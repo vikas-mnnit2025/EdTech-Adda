@@ -1,0 +1,41 @@
+# JWT Secret Key used for signing and verifying JSON Web Tokens
+JWT_SECRET=
+
+# # MongoDB connection string for connecting to the database"
+MONGODB_URL=
+
+# Hostname of the mail server used for sending emails
+MAIL_HOST=
+
+# Username of the email account used for sending emails
+MAIL_USER=
+
+# Password of the email account used for sending emails
+MAIL_PASS=
+
+
+API_KEY=
+
+API_SECRET=
+
+CLOUD_NAME=
+
+PORT=
+
+RAZORPAY_KEY=
+
+RAZORPAY_SECRET=
+
+FOLDER_NAME=
+
+USER_EMAIL=
+
+USER_PASS=
+
+CLIENT_SECRET=
+CLIENT_ID=
+
+REFRESH_TOKEN =
+# ACCESS_TOKEN=ya29.a0AfB_byBRhx8jzGdbdbrYbXw3I6xFqgdIZNguBy3sJNDdDj0aUgdPJ4W7YU6Tc9XRSaA-VRIaOHVzKDiadTjPdGksaL2dw34mRDkR3XaHZ3g--vosv2cV26IdXUczEbU4U6vVT48ITNA58ssNoHViziwth38jX15q291paCgYKAbcSARISFQHGX2Mi54rTaJoUyZAJM2Uc11glHQ0171
+
+# clusterpsw=AOC8BsF5L2AimLN2
